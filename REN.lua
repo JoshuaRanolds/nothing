@@ -7,7 +7,7 @@ elseif placeId == 3237168 then
 end
 spawn(function()
 	while wait() do 
-		print("JayKung#8973 ")
+		print("")
 	end
 end)
 if BF then
